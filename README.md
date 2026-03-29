@@ -53,7 +53,7 @@
 ### IDE-Native Agents
 
 | Agent | Description | Pricing |
-|-------|-------------|---------|
+|-------|-------------|---------
 | [Cursor](https://cursor.com) | VS Code fork. Composer mode for multi-file edits. Claude, GPT, Gemini. $29.3B valuation. | Free / $20/mo |
 | [GitHub Copilot](https://github.com/features/copilot) | Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5, Gemini 3). | $10/mo / $39/mo Pro+ |
 | [Windsurf (Codeium)](https://windsurf.com) | Cascade agentic mode. Project-level memory. 5 parallel agents. | Free / $15/mo |
@@ -287,6 +287,7 @@
 | [Relevance AI](https://relevanceai.com) | No-code agents for sales, support, research. | Free / Paid |
 | [Rivet](https://rivet.ironcladapp.com) | Visual AI workflow builder. Drag-and-drop. | Free (OSS) |
 | [FastAgency](https://github.com/airtai/fastagency) | Deploy multi-agent workflows as APIs. | Free (OSS) |
+| [cstack](https://github.com/srf6413/cstack) | Architecture pattern for autonomous agents using Claude Cowork, Notion SSOT, and MCP. Persistent multi-domain agents with no custom infrastructure or code. | Free (Claude Pro Needed) |
 
 ---
 
